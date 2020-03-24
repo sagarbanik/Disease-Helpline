@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DiseasesHelpline</string>
+
+
+    <string-array name="district_array">
+        <item>Select City</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Cumilla</item>
+        <item>Feni</item>
+        <item>B.Baria</item>
+        <item>Narayangonj</item>
+        <item>Munshigonj</item>
+        <item>Gazipur</item>
+        <item>Manikgonj</item>
+    </string-array>
+
+    <string-array name="area_array">
+        <item>Select Area</item>
+        <item>Mirpur</item>
+        <item>Dhanmondi</item>
+        <item>Kolabagan</item>
+        <item>Kazipara</item>
+        <item>Shewrapara</item>
+        <item>Mohammadpur</item>
+        <item>Gulisthan</item>
+        <item>Mothizeel</item>
+        <item>Farmgate</item>
+        <item>Savar</item>
+        <item>Gabtoli</item>
+        <item>Kollanpur</item>
+        <item>Uttora</item>
+        <item>Gulshan</item>
+        <item>Bonnani</item>
+    </string-array>
+
+</resources>
